@@ -117,8 +117,8 @@ print(preprocessor.get_feature_names_out())
 <img width="1007" height="506" alt="Screenshot 2026-10-29 185534" src="https://github.com/user-attachments/assets/09cc4338-7053-487d-ad79-a8bd6c6ae7bd" />
 
 
-<img width="322" height="52" alt="Screenshot 2026-10-29 185557" src="https://github.com/user-
-attachments/assets/ee7f9802-9292-4f9b-96b1-23158d0e2ea5" />
+<img width="322" height="52" alt="Screenshot 2026-10-29 185557" src="https://github.com/user-attachments/assets/e3545ee3-c583-40f7-895d-f4ff49c8ced4" />
+
 
 <img width="321" height="107" alt="Screenshot 2026-10-29 185550" src="https://github.com/user-attachments/assets/bc17fdb7-4f37-4c86-a4fa-90001fc21836" />
 
